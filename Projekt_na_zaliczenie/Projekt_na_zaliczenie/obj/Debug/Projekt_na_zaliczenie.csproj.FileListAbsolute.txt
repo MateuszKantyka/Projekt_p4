@@ -1,0 +1,14 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Projekt_na_zaliczenie\Projekt_na_zaliczenie\bin\Debug\Projekt_na_zaliczenie.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Projekt_na_zaliczenie\Projekt_na_zaliczenie\bin\Debug\Projekt_na_zaliczenie.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Projekt_na_zaliczenie\Projekt_na_zaliczenie\bin\Debug\Projekt_na_zaliczenie.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Projekt_na_zaliczenie\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Projekt_na_zaliczenie\Projekt_na_zaliczenie\obj\Debug\MainWindow.g.cs
+c:\users\lenovo\documents\visual studio 2015\Projects\Projekt_na_zaliczenie\Projekt_na_zaliczenie\obj\Debug\App.g.cs
+c:\users\lenovo\documents\visual studio 2015\Projects\Projekt_na_zaliczenie\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie_MarkupCompile.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Projekt_na_zaliczenie\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie_MarkupCompile.lref
+c:\users\lenovo\documents\visual studio 2015\Projects\Projekt_na_zaliczenie\Projekt_na_zaliczenie\obj\Debug\MainWindow.baml
+c:\users\lenovo\documents\visual studio 2015\Projects\Projekt_na_zaliczenie\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.g.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Projekt_na_zaliczenie\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Projekt_na_zaliczenie\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Projekt_na_zaliczenie\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Projekt_na_zaliczenie\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.pdb
