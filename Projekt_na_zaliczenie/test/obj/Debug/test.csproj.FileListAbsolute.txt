@@ -1,0 +1,14 @@
+C:\git\Projekt_p4\Projekt_na_zaliczenie\test\bin\Debug\test.exe.config
+C:\git\Projekt_p4\Projekt_na_zaliczenie\test\bin\Debug\test.exe
+C:\git\Projekt_p4\Projekt_na_zaliczenie\test\bin\Debug\test.pdb
+C:\git\Projekt_p4\Projekt_na_zaliczenie\test\bin\Debug\EntityFramework.dll
+C:\git\Projekt_p4\Projekt_na_zaliczenie\test\bin\Debug\EntityFramework.SqlServer.dll
+C:\git\Projekt_p4\Projekt_na_zaliczenie\test\bin\Debug\System.Data.SQLite.dll
+C:\git\Projekt_p4\Projekt_na_zaliczenie\test\bin\Debug\System.Data.SQLite.EF6.dll
+C:\git\Projekt_p4\Projekt_na_zaliczenie\test\bin\Debug\System.Data.SQLite.Linq.dll
+C:\git\Projekt_p4\Projekt_na_zaliczenie\test\bin\Debug\EntityFramework.xml
+C:\git\Projekt_p4\Projekt_na_zaliczenie\test\bin\Debug\EntityFramework.SqlServer.xml
+C:\git\Projekt_p4\Projekt_na_zaliczenie\test\bin\Debug\System.Data.SQLite.xml
+C:\git\Projekt_p4\Projekt_na_zaliczenie\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\git\Projekt_p4\Projekt_na_zaliczenie\test\obj\Debug\test.exe
+C:\git\Projekt_p4\Projekt_na_zaliczenie\test\obj\Debug\test.pdb

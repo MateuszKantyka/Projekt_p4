@@ -12,3 +12,27 @@ c:\users\lenovo\documents\visual studio 2015\Projects\Projekt_na_zaliczenie\Proj
 c:\users\lenovo\documents\visual studio 2015\Projects\Projekt_na_zaliczenie\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.csproj.GenerateResource.Cache
 c:\users\lenovo\documents\visual studio 2015\Projects\Projekt_na_zaliczenie\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.exe
 c:\users\lenovo\documents\visual studio 2015\Projects\Projekt_na_zaliczenie\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.pdb
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Projekt_na_zaliczenie\bin\Debug\Projekt_na_zaliczenie.exe.config
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.exe
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.pdb
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Projekt_na_zaliczenie\bin\Debug\Projekt_na_zaliczenie.exe
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Projekt_na_zaliczenie\bin\Debug\Projekt_na_zaliczenie.pdb
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Projekt_na_zaliczenie\bin\Debug\EntityFramework.dll
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Projekt_na_zaliczenie\bin\Debug\EntityFramework.SqlServer.dll
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Projekt_na_zaliczenie\bin\Debug\System.Data.SQLite.dll
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Projekt_na_zaliczenie\bin\Debug\System.Data.SQLite.EF6.dll
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Projekt_na_zaliczenie\bin\Debug\System.Data.SQLite.Linq.dll
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Projekt_na_zaliczenie\bin\Debug\EntityFramework.xml
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Projekt_na_zaliczenie\bin\Debug\EntityFramework.SqlServer.xml
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Projekt_na_zaliczenie\bin\Debug\System.Data.SQLite.xml
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.csprojResolveAssemblyReference.cache
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Projekt_na_zaliczenie\obj\Debug\MainWindow.g.cs
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Projekt_na_zaliczenie\obj\Debug\App.g.cs
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie_MarkupCompile.cache
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie_MarkupCompile.lref
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Projekt_na_zaliczenie\obj\Debug\MainWindow.baml
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.g.resources
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.Properties.Resources.resources
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.csproj.GenerateResource.Cache
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Projekt_na_zaliczenie\bin\Debug\Library.dll
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Projekt_na_zaliczenie\bin\Debug\Library.pdb

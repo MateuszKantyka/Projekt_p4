@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.SQLite;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -12,6 +13,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Library;
 
 namespace Projekt_na_zaliczenie
 {
@@ -20,9 +22,17 @@ namespace Projekt_na_zaliczenie
     /// </summary>
     public partial class MainWindow : Window
     {
+        SQLiteConnection conn = new SQLiteConnection("Data Source=sklep.db");
+       
+
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+            var Test = new Test;
         }
     }
 }

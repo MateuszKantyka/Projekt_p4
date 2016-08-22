@@ -1,0 +1,14 @@
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Library\bin\Debug\Library.dll.config
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Library\bin\Debug\Library.dll
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Library\bin\Debug\Library.pdb
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Library\bin\Debug\EntityFramework.dll
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Library\bin\Debug\EntityFramework.SqlServer.dll
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Library\bin\Debug\System.Data.SQLite.dll
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Library\bin\Debug\System.Data.SQLite.EF6.dll
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Library\bin\Debug\System.Data.SQLite.Linq.dll
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Library\bin\Debug\EntityFramework.xml
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Library\bin\Debug\EntityFramework.SqlServer.xml
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Library\bin\Debug\System.Data.SQLite.xml
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Library\obj\Debug\Library.dll
+C:\git\Projekt_p4\Projekt_na_zaliczenie\Library\obj\Debug\Library.pdb
